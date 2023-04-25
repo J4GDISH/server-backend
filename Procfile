@@ -1,0 +1,1 @@
+web: gunicorn wsgi:rest_server_app
